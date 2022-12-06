@@ -1,0 +1,13 @@
+It is posibble to get from html using java scro pt
+
+what is dom :
+	1. Dom represent   Dom we are going to change 
+
+dom has 3 thing
+
+1.Property
+2.Methods
+3.Sub Object
+
+
+js event:  click , dbClick , mouseenter, mouseleave, mouseover, input, change, blur, keypress, change, keyup

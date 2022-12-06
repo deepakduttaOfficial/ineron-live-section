@@ -1,0 +1,21 @@
+Topics to study (13112022)
+
+1. JSON Web token
+2. How is the model of a User is created in mongoose
+3. What are the different field attributes that can be applied on a schema
+4. What is .env, how to load, why it is not added to git
+5. Connection of DB (mongodb) - procedure
+6. Middlewares in express. How it helps in authorization concept
+7. HTTP Status codes
+8. Learn about bcrypt, usage, payload of it, secret passing
+
+Topics to study (13/11/2022):
+
+1. JSON Web token
+2. How is the model of a User is created in mongoose
+3. What are the different field attributes that can be applied on a schema
+4. What is .env, how to load, why it is not added to git?
+5. Connection of DB (mongodb) - procedure
+6. Middlewares in express. How it helps in authorization concept?
+7. HTTP Status codes
+8. Learn about bcrypt, usage, payload of it, secret passing
